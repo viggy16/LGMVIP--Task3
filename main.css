@@ -1,0 +1,15 @@
+table{
+    margin-top: 100px;
+    text-align: center;
+    background: #660000;
+    color: white ;
+}
+
+#show th, #show td{
+    padding: 13px;
+}
+
+#btn td input{
+    width: 100%;
+}
+
